@@ -1,0 +1,14 @@
+{
+  "id": "zea-trade-map",
+  "title": "Zea · 航海贸易地图",
+  "description": "80×80 地下海地图、共享商队、沦敦卡3/2/2、NPC采购后三轮交付、Bonus Cup与日历。旧战役不自动迁移，使用前请阅读README。",
+  "version": "0.3.2",
+  "url": "https://github.com/litchicalpis/zea-trade-map",
+  "manifest": "https://raw.githubusercontent.com/litchicalpis/zea-trade-map/main/module.json",
+  "download": "https://github.com/litchicalpis/zea-trade-map/releases/download/v0.3.2/zea-trade-map-v0.3.2.zip",
+  "authors": [{"name": "Zea"}],
+  "compatibility": {"minimum": "12", "maximum": "12"},
+  "esmodules": ["scripts/fvtt/main.js"],
+  "styles": ["styles/trade-map.css"],
+  "socket": true
+}
