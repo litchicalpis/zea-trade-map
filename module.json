@@ -2,7 +2,7 @@
   "id": "zea-trade-map",
   "title": "Zea · 航海贸易地图",
   "description": "HTTP 兼容的地下海贸易地图、共享商队与日历。默认明文压缩存档、未签名消息；旧加密战役需离线转换，使用前请阅读 README。",
-  "version": "0.4.5",
+  "version": "0.5.0",
   "authors": [{"name": "Zea"}],
   "compatibility": {"minimum": "12", "maximum": "12"},
   "esmodules": ["scripts/fvtt/main.js"],
@@ -10,5 +10,5 @@
   "socket": true,
   "url": "https://github.com/litchicalpis/zea-trade-map",
   "manifest": "https://raw.githubusercontent.com/litchicalpis/zea-trade-map/main/module.json",
-  "download": "https://github.com/litchicalpis/zea-trade-map/releases/download/v0.4.5/zea-trade-map-v0.4.5.zip"
+  "download": "https://github.com/litchicalpis/zea-trade-map/releases/download/v0.5.0/zea-trade-map-v0.5.0.zip"
 }
